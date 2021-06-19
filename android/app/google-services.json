@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199737925274",
+    "project_id": "foodapp-132a0",
+    "storage_bucket": "foodapp-132a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199737925274:android:95df1349ef856d67834923",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199737925274-ufv8ldnirpaekri5a3oiou3h4blli6vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterthailand.foodapp",
+            "certificate_hash": "8aabf134c0430d5ef4fc824aa14aba1b6afc3796"
+          }
+        },
+        {
+          "client_id": "199737925274-5j2e2qhrf9tfl64blknu1am61ss7l7b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlzVx-08ZH0klyUK9zBCyrWPLlWrslIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199737925274-5j2e2qhrf9tfl64blknu1am61ss7l7b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
